@@ -6,13 +6,12 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| 1   | M1 Ⓖ           | [>](http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
-| 2   | M1 Hiradó Ⓨ    | [>](https://www.youtube.com/@M1-Hirado/live) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> |
-| 3   | M2 / Petőfi TV Ⓖ | [>](http://88.212.15.19/live/m2_hun/index.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
-| 4   | M4 Sport       | [x](https://c402-node61-cdn.connectmedia.hu/150104/aaef1a354b4ad88351bbc3f3b781c3c0/6a8153af/index.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
-| 5   | M5 Hungary Ⓖ   | [>](http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
-| 6   | Duna TV Ⓖ      | [>](http://88.212.15.19/live/duna_hun/index.m3u8) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> | DunaTV.hu |
-
+| 1   | M1 Ⓖ           | [>](https://c802-node63-cdn.connectmedia.hu/110301/c6c091fa60925ab83664456fef21aa67/6acd3751/index.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
+| 2   | M2 / Petőfi TV Ⓖ | [>](https://c201-node62-cdn.connectmedia.hu/110302/2c7a0ae7983da48c789746e2a800d38d/6acd3776/index.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
+| 3  | M4 Sport       | [x](https://c402-node61-cdn.connectmedia.hu/150104/aaef1a354b4ad88351bbc3f3b781c3c0/6a8153af/index.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
+| 4   | M5 Hungary Ⓖ   | [>](https://c202-node62-cdn.connectmedia.hu/110305/eafe1282586735b75d33d478a0a593ed/6acd3793/index.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
+| 5   | Duna TV Ⓖ      | [>](https://c202-node61-cdn.connectmedia.hu/110303/0c6481dc0bb4f05ddf63cf863a7f889b/6acd381d/index.m3u8) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> | DunaTV.hu |
+| 6   | Duna World / M4+ Sport | [>](https://c202-node61-cdn.connectmedia.hu/110306/ffebc3d1686ac0c4d53bdc3966cc7271/6acd37b4/index.m3u8) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> | DunaWorld.hu |
 <h2>Commercial</h2>
 
 | #   | Channel        | Link  | Logo | EPG id|
